@@ -22,6 +22,9 @@ package main
  * func guess(num int) int;
  */
 
+func guess(int) int {
+	return 0
+}
 func guessNumber(n int) int {
 	low, high := 1, n
 	for low <= high {
