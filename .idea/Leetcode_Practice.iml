@@ -4,7 +4,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Leetcode100/1_两数之和/Rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Leetcode100/49_字母异位词分组/Rust/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Leetcode100/1_两数之和/Rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Leetcode100/49_字母异位词分组/Rust/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
