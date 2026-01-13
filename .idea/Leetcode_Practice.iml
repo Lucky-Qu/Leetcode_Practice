@@ -8,11 +8,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Leetcode100/128_最长连续序列/Rust/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Leetcode100/283_移动零/Rust/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Leetcode100/11_盛最多水的容器/Rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Leetcode100/15_三数之和/Rust/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Leetcode100/1_两数之和/Rust/target" />
       <excludeFolder url="file://$MODULE_DIR$/Leetcode100/49_字母异位词分组/Rust/target" />
       <excludeFolder url="file://$MODULE_DIR$/Leetcode100/128_最长连续序列/Rust/target" />
       <excludeFolder url="file://$MODULE_DIR$/Leetcode100/283_移动零/Rust/target" />
       <excludeFolder url="file://$MODULE_DIR$/Leetcode100/11_盛最多水的容器/Rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Leetcode100/15_三数之和/Rust/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
